@@ -26,10 +26,10 @@ import json
 
 
 #API keys needed to access Twitter API
-ckey = 'wsUxIhU1ilBxuNS08duN1nyKh'
-csecret = 'VJQcJ5DvWb5RtGOczcdPw1IkosMHVvpYHZkSkdl1Smw2Fiz9r9'
-atoken = '210299818-t4f3a5tMQPxr0kfLhprjCdQ4yVHTopouRXsoOMUh'
-asecret = 'pdElY5YYxvPfTfVpc6BKhs8XUyXm0wezxoZL6jv3X7lfR'
+ckey = ''
+csecret = ''
+atoken = ''
+asecret = ''
 
 
 
